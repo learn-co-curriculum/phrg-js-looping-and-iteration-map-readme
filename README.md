@@ -192,3 +192,4 @@ Damn, it feels good to be a gangsta!
 - [MDN — `Array.prototype.map()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-looping-and-iteration-map-readme'>Map</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Map</p>
