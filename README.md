@@ -188,6 +188,10 @@ Now that we understand how the built-in `.map()` array method is implemented, we
 
 Damn, it feels good to be a gangsta!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-looping-and-iteration-map-readme/issues) or [pull-reqeust](https://github.com/learn-co-curriculum/phrg-js-looping-and-iteration-map-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 - [MDN — `Array.prototype.map()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
